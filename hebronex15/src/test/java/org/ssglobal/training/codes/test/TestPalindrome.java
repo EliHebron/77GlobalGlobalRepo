@@ -1,0 +1,8 @@
+package org.ssglobal.training.codes.test;
+
+public class TestPalindrome {
+
+	public void testIsPalindrome() {
+		
+	}
+}
